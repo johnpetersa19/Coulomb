@@ -3,7 +3,7 @@
 <a href="https://github.com/hamza-Algohary/Coulomb">
     <img src="app/src/main/resources/icons/vector/dark/coulomb.svg" alt="Logo" width="256" height="256">
 </a>
-<h3 style="font-size:36px" align="center">Coulomb</h3>
+<h3 style="font-size:36px" align="center">Coulomb BR</h3>
 <p align="center">
 Um aplicativo simulador de circuitos simples e bonito para Linux.</p>
 <a href="https://flathub.org/apps/io.github.hamza_algohary.Coulomb">
