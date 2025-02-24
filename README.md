@@ -46,7 +46,7 @@ Como alternativa, você pode baixar o arquivo jar diretamente do [releases](http
 1. Certifique-se de que [Gtk4](https://www.gtk.org/docs/installations/), libadwaita e [Gradle](https://gradle.org/install/) estejam instalados em sua máquina.
 2. Clone este repositório:
 ```
-git clone https://github.com/hamza-Algohary/Coulomb
+git clone https://github.com/johnpetersa19/Coulomb
 ```
 3. Navegue até a pasta do projeto
 ```
